@@ -26,7 +26,7 @@
     "reveal": [
       {
         "name": "Acrobaties",
-        "description": "Obtient \"Né en Zéro-G\" : Comme action gratuite, peut entrer dans un Lieu en Apesanteur à la place de Lâcher/Ramasser.",
+        "description": "Obtient Né en Zéro-G : Comme action gratuite, peut entrer dans un Lieu en Apesanteur à la place de Lâcher/Ramasser.",
         "type": "mobility"
       }
     ],
@@ -74,9 +74,11 @@
     "tips": [
       "L'Artefact est au Laboratoire et l'Attaché Case est dans la Suite de Luxe",
       "Un Fonctionnaire peut fabriquer un Pistolet au Fab Lab, ou il peut être obtenu grâce à un autre Personnage",
-      "Le Cosmo-Singe se déplace rapidement grâce à ses compétences \"Rat d'égoûts\" et \"Né en zéro-G\""
+      "Le Cosmo-Singe se déplace rapidement grâce à ses compétences Rat d'égoûts et Né en zéro-G "
     ],
-    "board_modifications": [""]
+    "board_modifications": [
+      ""
+    ]
   },
   {
     "id": 2,
@@ -163,7 +165,7 @@
       "Le Milliardaire et Fletcher sont considérés sur le même Lieu lors du décompte final, s'ils étaient sur le même lieu au moment où ils s'Échappent en utilisant le même moyen"
     ],
     "tips": [
-      "Protégez-vous avec un Casque et essayez de garder les Brouilleurs éteints pour pouvoir rester \"en direct-live\" ",
+      "Protégez-vous avec un Casque et essayez de garder les Brouilleurs éteints pour pouvoir rester en direct-live ",
       "Après votre Révélation vous pouvez utiliser les Bakchich gris pour bénéficier d'actions bonus via les autres Personnages. "
     ],
     "board_modifications": [""]
@@ -200,7 +202,7 @@
       },
       {
         "name": "Extraction",
-        "description": "À la Révélation (y compris lors du Crash de la station), retournez le Vaisseau de Secours sur sa face \"Vaisseau Pirate\". Ce dernier ne secourt que le Personnage (même Abattu) Possédant l'Attaché Case",
+        "description": "À la Révélation (y compris lors du Crash de la station), retournez le Vaisseau de Secours sur sa face Vaisseau Pirate. Ce dernier ne secourt que le Personnage (même Abattu) Possédant l'Attaché Case",
         "type": "offensive"
       }
     ],
@@ -214,7 +216,7 @@
           "diagram": "assets/images/rooms/outer_space.png"
         }
       ],
-      "notes": "Placez le Vaisseau de Secours à coté de la case \"dans l'Espace\". La Pirate de l'Espace commence avec un Casque, une Matraque et un Pistolet sur sa carte"
+      "notes": "Placez le Vaisseau de Secours à coté de la case dans l'Espace. La Pirate de l'Espace commence avec un Casque, une Matraque et un Pistolet sur sa carte"
     },
     "agenda": {
       "description": "Tout rafler",
@@ -251,7 +253,7 @@
       "Faites attention si le Robot Vigile participe au jeu, car vous êtes une Fugitive"
     ],
     "board_modifications": [
-      "Au début de la partie il y a un Vaisseau de Secours \"quelque part\" qui peut aider les êtres humains à survivre",
+      "Au début de la partie il y a un Vaisseau de Secours quelque part qui peut aider les êtres humains à survivre",
       "Vaisseau de Secours (recto) - Lors du décompte, tout personnage Humain dans l'Espace est considéré comme Échappé",
       "Si un joueur se révèle comme étant la Pirate de l'Espace, retournez le vaisseau de Secours qui s'avère être en réalité le Vaisseau pirate, ayant un tout autre objectif...",
       "Vaisseau Pirate (verso) -  Lors du décompte, le Personnage qui Possède l'Attaché Case est considéré comme Échappé"
@@ -303,7 +305,7 @@
           "diagram": "assets/images/rooms/hydroponics.png"
         }
       ],
-      "notes": "Placer le jeton d'action \"j'ai faim !\" à cote du plateau de jeu, près du Lieu Hydroponie"
+      "notes": "Placer le jeton d'action j'ai faim ! à cote du plateau de jeu, près du Lieu Hydroponie"
     },
     "agenda": {
       "description": "Plante carnivore",
@@ -338,12 +340,12 @@
       "notes": ""
     },
     "quirks": [
-      "Fang Moss est un objet. Le joueur qui Possède Fang Moss obtient l'action décrite sur le jeton \"J'ai Faim !\" "
+      "Fang Moss est un objet. Le joueur qui Possède Fang Moss obtient l'action décrite sur le jeton J'ai Faim ! "
       ],
     "tips": [
       "Traquez les personnages Abattus pour nourrir Fang Moss", 
       "Équipez-vous d'un Casque. Attrapez la Contamination dans le Labo de Biologie ", 
-      "Utilisez \"Né en zéro-G\" pour gagner en mobility ", 
+      "Utilisez Né en zéro-G pour gagner en mobilité ", 
       "Après la Révélation, essayez que personne ne Possède Fang Moss, pour lui faire réaliser des actions en plus des vôtres "
     ],
     "board_modifications": [""]
@@ -746,7 +748,7 @@
         {
           "main": {
             "points": 1,
-            "description": "Pour tout Personnage avec la capacité \"Fonctionnaire\" qui finit Abattu lors du Crash de la station"
+            "description": "Pour tout Personnage avec la capacité Fonctionnaire qui finit Abattu lors du Crash de la station"
           },
           "sub": []
         },
@@ -828,7 +830,7 @@
           "diagram": "assets/images/rooms/locker_room.png"
         }
       ],
-      "notes": "Placer le jeton \"Évacuation en Jet Pack\" sous la case \"dans l'espace\". Placer le Jet Pack au Laboratoire."
+      "notes": "Placer le jeton Évacuation en Jet Pack sous la case dans l'espace. Placer le Jet Pack au Laboratoire."
     },
     "agenda": {
       "description": "Le grand frisson",
@@ -860,8 +862,8 @@
       "notes": ""
     },
     "quirks": [
-      "Grâce à l\"apothéose\", la Casse-Cou a seulement besoin de Posséder un Casque et de finir sur le même Lieu que le Jet Pack pour s'Échapper. Elle n'a pas besoin d'avoir le Jet Pack en sa Possession",
-      "Même si la Casse-Cou n'a pas besoin d'un Casque pour aller dans l'Espace, elle doit en avoir un en sa Possession pour réaliser l'action \"Évacuation en Jet Pack\" "
+      "Grâce à Apothéose, la Casse-Cou a seulement besoin de Posséder un Casque et de finir sur le même Lieu que le Jet Pack pour s'Échapper. Elle n'a pas besoin d'avoir le Jet Pack en sa Possession",
+      "Même si la Casse-Cou n'a pas besoin d'un Casque pour aller dans l'Espace, elle doit en avoir un en sa Possession pour réaliser l'action Évacuation en Jet Pack "
     ],
     "tips": [
       "L'Artefact est au Laboratoire et la Contamination s'attrape dans le Labo de Biologie",
@@ -870,8 +872,8 @@
     ],
     "board_modifications": [
       "Le Jet Pack est ajouté sur le plateau: il offre une nouvelle manière de s'Échapper.",
-      "Le jeton \"Évacuation en Jet Pack\" offre une nouvelle action à réaliser \"dans l'Espace\" ",
-      "\"Évacuation en Jet Pack\" : Un Personnage qui a le Jet Pack en sa Possession en étant \"dans l'Espace\", finit Échappé. Si c'est un Humain, il a toujours besoin de Posséder aussi un Casque"]
+      "Le jeton Évacuation en Jet Pack offre une nouvelle action à réaliser dans l'Espace ",
+      "Évacuation en Jet Pack : Un Personnage qui a le Jet Pack en sa Possession en étant dans l'Espace, finit Échappé. Si c'est un Humain, il a toujours besoin de Posséder aussi un Casque"]
 
   },
   {
@@ -889,7 +891,7 @@
     "abilities": [
       {
         "name": "I.A.",
-        "description": "Ne peut que faire des actions de Pupitre. Les Personnages qui possèdent l'Assistant Numérique en tant que Data sont considérés comme étant des \"Fonctionnaires\" pour les actions de Lieux, et comme ayant \"l'Évacuation d'Urgence\" lorsqu'ils veulent Lancer les Pods.",
+        "description": "Ne peut que faire des actions de Pupitre. Les Personnages qui possèdent l'Assistant Numérique en tant que Data sont considérés comme étant des Fonctionnaires pour les actions de Lieux, et comme ayant l'Évacuation d'Urgence lorsqu'ils veulent Lancer les Pods.",
         "type": "pupitre"
       },
       {
@@ -915,7 +917,7 @@
     "setup": {
       "item": [
       ],
-      "notes": "Recouvrez l'action de l'Unité Centrale par le jeton d'action de Lieu \"Unité Centrale\". Placez le bandeau \"Vérrouillage\" parmi les actions de Pupitre."
+      "notes": "Recouvrez l'action de l'Unité Centrale par le jeton d'action de Lieu Unité Centrale. Placez le bandeau Vérrouillage parmi les actions de Pupitre."
     },
     "agenda": {
       "description": "Prolifération virale",
@@ -960,8 +962,8 @@
       "Un bon moment pour vous Révéler peut être juste avant que quelqu'un ne s'Échappe avec un autre type de Data"
     ],
     "board_modifications": [
-      "L'action de Pupitre \"Vérrouillage\" vous permet d'ajouter, de déplacer ou de retirer un Verrou dans n'importe quel couloir, tant que l'Évacuation d'Urgence n'est pas déclenchée",
-      "L'ajout du jeton d'action de Lieu \"Unité Centrale\" donne à tous les Personnages la capacité de Fabriquer le Data de l'Asssistant Numérique"
+      "L'action de Pupitre Vérrouillage vous permet d'ajouter, de déplacer ou de retirer un Verrou dans n'importe quel couloir, tant que l'Évacuation d'Urgence n'est pas déclenchée",
+      "L'ajout du jeton d'action de Lieu Unité Centrale donne à tous les Personnages la capacité de Fabriquer le Data de l'Asssistant Numérique"
     ]
   },
   {
@@ -1167,7 +1169,7 @@
           "diagram": "assets/images/rooms/outer_space.png"
         }
       ],
-      "notes": " Les Drones n'ont pas de Carte d'identité. Placez le bandeau \"Contrôle à distance\" parmi les actions de Pupitre. Chaque Drone commence avec une Matraque Intégrée"
+      "notes": " Les Drones n'ont pas de Carte d'identité. Placez le bandeau Contrôle à distance parmi les actions de Pupitre. Chaque Drone commence avec une Matraque Intégrée"
     },
     "agenda": {
       "description": "",
@@ -1180,13 +1182,13 @@
       "Les Drones ne sont jamais Activés, et donc n'ont pas d'action gratuite Lâcher/Ramasser",
       "Les Drones peuvent réaliser des actions et posséder des Objets ou du Data",
       "Les Matraques en Possession des Drones sont Intégrés : elles ne peuvent pas leur être enlevées",
-      "Utiliser l'action de Pupitre \"Contrôle à distance\" est le seul moyen d'agir avec les Drones. Sauf si l'Assistant Numérique participe au jeu."
+      "Utiliser l'action de Pupitre Contrôle à distance est le seul moyen d'agir avec les Drones. Sauf si l'Assistant Numérique participe au jeu."
     ],
     "tips": [
       "Les Drones sont un moyen utile d'Abattre les Personnages, puisqu'ils possèdent toujours une Matraque",
       "Les Drones permettent de Réparer les Lieux"
     ],
-    "board_modifications": "Placez le bandeau \"Contrôle à distance\" parmi les actions de Pupitre, ce qui donne aux Personnages le moyen d'agir avec un Drone"
+    "board_modifications": "Placez le bandeau Contrôle à distance parmi les actions de Pupitre, ce qui donne aux Personnages le moyen d'agir avec un Drone"
   },
   {
     "id": 15,
@@ -1229,7 +1231,7 @@
           "diagram": "assets/images/rooms/array_control.png"
         }
       ],
-      "notes": "Recouvrer l'emplacement d'action du Réacteur avec le jeton \"Réacteur\" "
+      "notes": "Recouvrer l'emplacement d'action du Réacteur avec le jeton Réacteur "
     },
     "agenda": {
       "description": "Préserver l'écosphère",
@@ -1275,8 +1277,8 @@
       "Vous pouvez Décontaminer les personnages dans les Cuves, ou juste les Abattre sans craindre de devenir Coupable"
     ],
     "board_modifications": [
-      "L'ajout du jeton \"Réacteur\" modifie l'état de ce Lieu",
-      "Le Réacteur ne peut plus être Endommagé avec une simple Matraque. Par contre s'il est Endommagé par un autre moyen, il faut y placer un Risque \"Fuite de gaz\" ainsi que dans les lieux qui lui sont adjacents par des couloirs (et non par les Conduits d'aération)"
+      "L'ajout du jeton Réacteur modifie l'état de ce Lieu",
+      "Le Réacteur ne peut plus être Endommagé avec une simple Matraque. Par contre s'il est Endommagé par un autre moyen, il faut y placer un Risque Fuite de gaz ainsi que dans les lieux qui lui sont adjacents par des couloirs (et non par les Conduits d'aération)"
     ]
   },
   {
@@ -1404,7 +1406,7 @@
           "diagram": "assets/images/rooms/chem_lab.png"
         }
       ],
-      "notes": "Retourner le Pod \"Ave Maria\" sur sa face \"Navette de l'Inspection\" "
+      "notes": "Retourner le Pod Ave Maria sur sa face Navette de l'Inspection "
     },
     "agenda": {
       "description": "Corruption",
@@ -1447,7 +1449,7 @@
       "Plus vous vous Révélez tard, plus vous avez de chances d'obtenir des Bakchich"
     ],
     "board_modifications": [
-      "Pour pouvoir être Lancée, la Navette de L'inspection doit être occupée par l'Inspection, ou un Humain Vivant possédant les \"Outils de Fortune\" "]
+      "Pour pouvoir être Lancée, la Navette de L'inspection doit être occupée par l'Inspection, ou un Humain Vivant possédant les Outils de Fortune "]
   },
   {
     "id": 18,
@@ -1538,7 +1540,7 @@
     ],
     "tips": [
       "Acquérir et utiliser les Kompromats est un bon moyen de créer des Suspects",
-      "Votre limite d'influence est basse, mais \"c'était écrit en bas de page\" vous aidera si vous vous Révélez",
+      "Votre limite d'influence est basse, mais c'était écrit en bas de page vous aidera si vous vous Révélez",
       "Endommagez le PC de Sécurité pour éviter la fabrication de Preuves",
       "Empêchez toute forme d'Échappatoire qui ne nécessiterait pas de Clause de Confidentialité",
       "La Clause de Confidentialité ne peut être que personnellement Fabriquée sur, ou avec des Personnages présents sur le Lieu, donc essayez de garder le Robot Juriste Vivant"
@@ -1702,7 +1704,7 @@
       "Utilisez le marqueur de la piste pour comptabiliser chaque Humain Ravivé par le Robot Sauveteur et chaque Cube d'influence envoyé en Traîtrise lors de sa Révélation",
       "Le marqueur de la piste commence à 0",
       "Le Robot Sauveteur ne peut pas Raviver un Humain sans Casque dans un Lieu contenant un Risque",
-      "Les déplacements gratuits obtenus par \"Réanimation\" peuvent être chaînés sans limite "
+      "Les déplacements gratuits obtenus par Réanimation peuvent être chaînés sans limite "
     ],
     "tips": [
       "Le plus il y a d'Humains Abattus, le plus vite vous vous déplacez et avez de chances de les Raviver pour marquer des points",
@@ -1916,7 +1918,7 @@
     "reveal": [
       {
         "name": "Usage de la force autorisé",
-        "description": "Perdez votre capacité \"Pacificateur\" ",
+        "description": "Perdez votre capacité Pacificateur ",
         "type": "offensive"
       }
     ],
@@ -1976,7 +1978,7 @@
       "Obtenir et utiliser des Kompromat est un bon moyen de rendre les Joueurs Suspects",
       "Vous pouvez libérer le Projet X sur la Passerelle ou en Cryogénie, avec un Fonctionnaire",
       "Le Cyborg et la Pirate de l'Espace sont des fugitifs",
-      "Jusqu'à votre Révélation, votre capacité \"Pacificateur\" vous empêche d'Attaquer ou d'Endommager, mais pas de Braquer (vous confisquez des objets pour les sécuriser)"
+      "Jusqu'à votre Révélation, votre capacité Pacificateur vous empêche d'Attaquer ou d'Endommager, mais pas de Braquer (vous confisquez des objets pour les sécuriser)"
     ],
     "board_modifications": [""]
   },
@@ -2165,7 +2167,7 @@
       },
       {
         "name": "Mystère",
-        "description": "Si vous révélez l'Étranger.e par Schrödinger, ne défaussez aucunes cartes (gardez-les en Persos bonus).  YYY Si vous révélez l'Étranger.e par Schrödinger vous perdez \"Surnaturel\" ",
+        "description": "Si vous révélez l'Étranger.e par Schrödinger, ne défaussez aucunes cartes (gardez-les en Persos bonus).  YYY Si vous révélez l'Étranger.e par Schrödinger vous perdez Surnaturel ",
         "type": "conspiracy"
       }
     ],
@@ -2401,7 +2403,7 @@
       "Oeuvrez à garder les personnages hors de la Passserelle, de la Cryogénie et de la Chambre de confinement pour les empêcher de libérer le Projet X et d'Armer l'Antimatière"
     ],
     "board_modifications": [
-      "Le Grappin de Fret permet à n'importe quel Personnage de réaliser l'action \"Pince\" sur ce nouveau Lieu",
+      "Le Grappin de Fret permet à n'importe quel Personnage de réaliser l'action Pince sur ce nouveau Lieu",
       "Pince : Ramasser un objet actuellement dans l'Espace, ou Abattre un Personnage dans l'Espace"
     ]
   }
