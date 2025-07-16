@@ -1365,13 +1365,13 @@
   },
   {
     "id": 17,
-    "name": "L'Inspection",
+    "name": "L'Inspectrice",
     "description": "abc",
     "pronoums": "Iel",
     "bonus_points": {
       "points": 2,
       "alive": true,
-      "notes": "si l'Inspection est votre Personnage Bonus et finit Échappée"
+      "notes": "si l'Inspectrice est votre Personnage Bonus et finit Échappée"
     },
     "influence_limit": 4,
     "type": "Human",
@@ -1399,12 +1399,12 @@
     "setup": {
       "item": [
         {
-          "name": "l'Inspection",
+          "name": "l'Inspectrice",
           "location_name": "Labo de Chimie",
           "diagram": "assets/images/rooms/chem_lab.png"
         }
       ],
-      "notes": "Retourner le Pod \"Ave Maria\" sur sa face \"Navette de l'Inspection\" "
+      "notes": "Retourner le Pod \"Ave Maria\" sur sa face \"Navette de l'Inspectrice\" "
     },
     "agenda": {
       "description": "Corruption",
@@ -1412,7 +1412,7 @@
         {
           "main": {
             "points": 2,
-            "description": "si l'Inspection finit Échappée"
+            "description": "si l'Inspectrice finit Échappée"
           },
           "sub": [
             {
@@ -1434,10 +1434,10 @@
           ]
         }
       ],
-      "notes": "L'Inspection gagne 2 points pour chaque Bakchich en sa possession"
+      "notes": "L'Inspectrice gagne 2 points pour chaque Bakchich en sa possession"
     },
     "quirks": [
-      "L'Inspection gagne 2 points pour chaque Bakchich en sa possession"
+      "L'Inspectrice gagne 2 points pour chaque Bakchich en sa possession"
     ],
     "tips": [
       "L'Attaché Case est dans la Suite de Luxe",
@@ -1447,7 +1447,7 @@
       "Plus vous vous Révélez tard, plus vous avez de chances d'obtenir des Bakchich"
     ],
     "board_modifications": [
-      "Pour pouvoir être Lancée, la Navette de L'inspection doit être occupée par l'Inspection, ou un Humain Vivant possédant les \"Outils de Fortune\" "]
+      "Pour pouvoir être Lancée, la Navette de L'inspectrice doit être occupée par l'Inspectrice, ou un Humain Vivant possédant les \"Outils de Fortune\" "]
   },
   {
     "id": 18,
